@@ -15,3 +15,5 @@ Available from EAD Basic.
 
 Naming convention is according to script but you can change it however you like.
 
+Attention: Some reports are extremely RAM-hungry when generating the XML (e.g.: Designated Points - Hemisphere North/East). Be aware if your RAM is <= 8GB.
+
