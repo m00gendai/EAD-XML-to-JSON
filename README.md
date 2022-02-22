@@ -1,5 +1,5 @@
 # EAD-XML-to-JSON
-Simple script that converts and merges Eurocontrol European AIS Database SDO Report XML files to JSON. Written in Python 3.10.1.
+Simple script that converts Eurocontrol European AIS Database SDO Report XML files to JSON and then merges them to a JS file with custom keys. Written in Python 3.10.1.
 
 ## Dependencies ##
 
